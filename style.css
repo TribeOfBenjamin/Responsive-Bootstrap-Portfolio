@@ -3,6 +3,11 @@
     font-size: 30px;
 }
 
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
 
 @media screen and (max-width: 640px ) {
 
