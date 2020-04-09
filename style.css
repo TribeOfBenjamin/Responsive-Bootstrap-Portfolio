@@ -19,8 +19,12 @@ footer {
     background-color: rgb(240, 240, 240);
 }
 
+.gray {
+    background-color: rgb(240, 240, 240);
+}
 
-@media screen and (max-width: 640px ) {
+
+@media screen and (max-width: 640px ) and (max-width: 768px ) {
 
     .titleCenter {
         margin: auto;
@@ -29,4 +33,7 @@ footer {
     hr {
         border-top: 0px;
     }
+
+
+
 }
