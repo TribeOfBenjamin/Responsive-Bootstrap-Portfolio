@@ -1,3 +1,7 @@
+nav, .btn {
+    background-color: #1D7874;
+}
+
 .lobsterFont {
     font-family: 'Lobster', cursive;
     font-size: 30px;
@@ -23,6 +27,19 @@ footer {
     background-color: rgb(240, 240, 240);
 }
 
+a {
+    color: rgb(24, 150, 143);
+}
+
+a:hover {
+    color: #1D7874;
+}
+
+.contact-icons {
+    margin-left: 300px;
+    margin-bottom: 250px;
+}
+
 
 @media screen and (max-width: 640px ) and (max-width: 768px ) {
 
@@ -40,6 +57,10 @@ footer {
 
     .container {
         margin: auto;
+    }
+
+    .contact-icons {
+        margin-left: auto;
     }
 
 }
