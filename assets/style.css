@@ -3,7 +3,10 @@ nav, .btn {
 }
 
 .lobsterFont {
-    font-family: 'Lato', sans-serif;
+    font-family: 'Lobster', cursive;
+}
+
+.headerNameSize {
     font-size: 30px;
 }
 
